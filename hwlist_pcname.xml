@@ -9,7 +9,7 @@
 		<HWID>USB\COMPAT_VID_05AC&amp;CLASS_02&amp;SUBCLASS_0D&amp;PROT_00</HWID>
 		<HWID>USB\VID_05AC&amp;PID_12AB&amp;RESTORE_MODE&amp;MI_01</HWID>
 		<HWID>USB\VID_05AC&amp;PID_12AB&amp;REV_1306&amp;RESTORE_MODE&amp;MI_01</HWID>
-	</Device>
+	</Device> FRAGEZEICHEN
 	<Device name="Audio Endpoint" hidden="true" className="AudioEndpoint" displayName="1 - HISENSE (AMD High Definition Audio Device)">
 		<HWID>GENERICAUDIOENDPOINT</HWID>
 		<HWID>MMDEVAPI\AUDIOENDPOINTS</HWID>
