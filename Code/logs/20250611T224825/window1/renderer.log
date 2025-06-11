@@ -1,0 +1,82 @@
+2025-06-11 22:48:26.503 [info] Started local extension host with pid 3654.
+2025-06-11 22:48:26.619 [info] ComputeTargetPlatform: linux-x64
+2025-06-11 22:48:26.948 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-06-11 22:48:27.276 [error] Failed to fetch entitlements Offline
+2025-06-11 22:48:27.277 [error] Failed to fetch token entitlements Offline
+2025-06-11 22:48:27.337 [error] [chat entitlement] request: error Offline: Offline
+2025-06-11 22:48:27.392 [error] CodeExpectedError: No default agent registered
+    at SCe.activateDefaultAgent (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1986:32522)
+2025-06-11 22:48:27.705 [error] [chat entitlement] request: error Offline: Offline
+2025-06-11 22:48:28.936 [error] Error while getting the latest version for the extension github.copilot-chat from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Offline
+2025-06-11 22:48:28.937 [error] Error while getting the latest version for the extension github.copilot from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Offline
+2025-06-11 22:48:28.938 [error] Error while getting the latest version for the extension github.copilot-chat. Offline
+2025-06-11 22:48:28.938 [error] Error while getting the latest version for the extension github.copilot. Offline
+2025-06-11 22:48:29.003 [warning] Failed to fetch chat participant registry Offline
+2025-06-11 22:48:29.078 [info] [perf] Render performance baseline is 12ms
+2025-06-11 22:48:43.449 [error] [Extension Host] [default] Error sending telemetry FetchError: getaddrinfo EAI_AGAIN copilot-telemetry.githubusercontent.com
+    at fetch (/home/name/.vscode/extensions/github.copilot-1.331.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/name/.vscode/extensions/github.copilot-1.331.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at K1.fetch (/home/name/.vscode/extensions/github.copilot-1.331.0/lib/src/network/helix.ts:94:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'EAI_AGAIN',
+  errno: -3001,
+  erroredSysCall: 'getaddrinfo'
+}
+2025-06-11 22:49:58.544 [error] Offline: Offline
+    at lJe.L (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1859:34810)
+    at async lJe.I (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1859:29229)
+    at async lJe.B (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1859:23300)
+    at async lJe.getExtensions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1859:22171)
+    at async ect.getExtensions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2509:14652)
+    at async Kds.Rc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:830:24098)
+    at async Kds.$c (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:830:26742)
+    at async Kds.wc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:830:13224)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:830:12098
+2025-06-11 22:50:09.123 [error] Offline: Offline
+    at lJe.L (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1859:34810)
+    at async lJe.I (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1859:29229)
+    at async a (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1859:27951)
+    at async lJe.query (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1859:28239)
+    at async ect.queryGallery (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2509:14250)
+    at async Promise.all (index 0)
+    at async Gds.Mc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:830:21301)
+    at async Gds.wc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:830:13224)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:830:12098
+2025-06-11 22:50:09.641 [error] Offline: Offline
+    at lJe.L (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1859:34810)
+    at async lJe.I (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1859:29229)
+    at async a (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1859:27951)
+    at async lJe.query (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1859:28239)
+    at async ect.queryGallery (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2509:14250)
+    at async Promise.all (index 0)
+    at async Gds.Mc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:830:21301)
+    at async Gds.wc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:830:13224)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:830:12098
+2025-06-11 22:50:11.407 [error] Offline: Offline
+    at lJe.L (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1859:34810)
+    at async lJe.I (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1859:29229)
+    at async lJe.B (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1859:23300)
+    at async lJe.getExtensions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1859:22171)
+    at async ect.getExtensions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2509:14652)
+    at async Kds.Rc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:830:24098)
+    at async Kds.$c (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:830:26742)
+    at async Kds.wc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:830:13224)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:830:12098
+2025-06-11 23:22:56.130 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-06-11 23:22:56.204 [info] Started local extension host with pid 5752.
+2025-06-11 23:22:56.291 [info] ComputeTargetPlatform: linux-x64
+2025-06-11 23:22:56.475 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-06-11 23:22:58.739 [info] [perf] Render performance baseline is 13ms
+2025-06-11 23:22:59.804 [error] No registered selector for ID: copilot-chat.fixWithCopilot
+2025-06-11 23:22:59.804 [error] No registered selector for ID: copilot-chat.generateCommitMessage
+2025-06-11 23:22:59.810 [error] No registered selector for ID: copilot-chat.terminalToDebugging
+2025-06-11 23:22:59.810 [error] No registered selector for ID: copilot-chat.terminalToDebuggingSuccess
+2025-06-11 23:24:44.391 [error] [Extension Host] (node:5752) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-06-11 23:24:51.451 [info] Started local extension host with pid 6067.
+2025-06-11 23:24:51.457 [info] ComputeTargetPlatform: linux-x64
+2025-06-11 23:24:51.527 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-06-11 23:24:51.754 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-06-11 23:24:53.986 [info] [perf] Render performance baseline is 12ms

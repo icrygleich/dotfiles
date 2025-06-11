@@ -1,0 +1,27 @@
+[General]
+LastUsedVersion=210800
+
+[Recent Files]
+File1[$e]=smb://icrygleich@nas.local/volume2/gallery-dl/library/flickr_8548682517.jpg
+File10[$e]=smb://icrygleich@nas.local/volume2/gallery-dl/library/flickr_8625602960.jpg
+File2[$e]=smb://icrygleich@nas.local/volume2/gallery-dl/library/flickr_8548688153.jpg
+File3[$e]=smb://icrygleich@nas.local/volume2/gallery-dl/library/flickr_8549725894.jpg
+File4[$e]=smb://icrygleich@nas.local/volume2/gallery-dl/library/flickr_8553881183.jpg
+File5[$e]=smb://icrygleich@nas.local/volume2/gallery-dl/library/flickr_8553926969.jpg
+File6[$e]=smb://icrygleich@nas.local/volume2/gallery-dl/library/flickr_8554776746.jpg
+File7[$e]=smb://icrygleich@nas.local/volume2/gallery-dl/library/flickr_8560064434.jpg
+File8[$e]=smb://icrygleich@nas.local/volume2/gallery-dl/library/flickr_8601363722.jpg
+File9[$e]=smb://icrygleich@nas.local/volume2/gallery-dl/library/flickr_8604213535.jpg
+Name1[$e]=flickr_8548682517.jpg
+Name10[$e]=flickr_8625602960.jpg
+Name2[$e]=flickr_8548688153.jpg
+Name3[$e]=flickr_8549725894.jpg
+Name4[$e]=flickr_8553881183.jpg
+Name5[$e]=flickr_8553926969.jpg
+Name6[$e]=flickr_8554776746.jpg
+Name7[$e]=flickr_8560064434.jpg
+Name8[$e]=flickr_8601363722.jpg
+Name9[$e]=flickr_8604213535.jpg
+
+[SideBar]
+InformationSplitterSizes=232,235

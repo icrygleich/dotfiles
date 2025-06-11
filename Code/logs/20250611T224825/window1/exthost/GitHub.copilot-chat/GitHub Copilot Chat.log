@@ -1,0 +1,57 @@
+2025-06-11 22:48:27.288 [info] Using the Electron fetcher.
+2025-06-11 22:48:27.288 [info] Initializing Git extension service.
+2025-06-11 22:48:27.288 [info] Successfully activated the vscode.git extension.
+2025-06-11 22:48:27.288 [info] Enablement state of the vscode.git extension: true.
+2025-06-11 22:48:27.288 [info] Successfully registered Git commit message provider.
+2025-06-11 22:48:27.301 [info] Logged in as icrygleich
+2025-06-11 22:48:27.390 [info] Logged in as icrygleich
+2025-06-11 22:48:27.391 [error] Error: net::ERR_INTERNET_DISCONNECTED
+	at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/utility_init:2:10511)
+	at SimpleURLLoaderWrapper.emit (node:events:524:28): Failed to get copilot token
+2025-06-11 22:48:27.391 [error] GitHub Copilot could not connect to server. Extension activation failed: "net::ERR_INTERNET_DISCONNECTED"
+2025-06-11 22:48:27.391 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-06-11 22:48:27.391 [error] Error: net::ERR_INTERNET_DISCONNECTED
+	at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/utility_init:2:10511)
+	at SimpleURLLoaderWrapper.emit (node:events:524:28)
+2025-06-11 22:48:27.391 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-06-11 22:48:27.391 [error] Error: net::ERR_INTERNET_DISCONNECTED
+	at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/utility_init:2:10511)
+	at SimpleURLLoaderWrapper.emit (node:events:524:28)
+2025-06-11 22:48:27.391 [info] activationBlocker from 'languageModelAccess' took for 21ms
+2025-06-11 22:49:27.395 [info] Logged in as icrygleich
+2025-06-11 22:49:27.396 [error] GitHub Copilot could not connect to server. Extension activation failed: "net::ERR_INTERNET_DISCONNECTED"
+2025-06-11 22:50:27.402 [info] Logged in as icrygleich
+2025-06-11 22:50:27.404 [error] GitHub Copilot could not connect to server. Extension activation failed: "net::ERR_INTERNET_DISCONNECTED"
+2025-06-11 23:20:55.337 [info] Logged in as icrygleich
+2025-06-11 23:20:56.030 [info] Got Copilot token for icrygleich
+2025-06-11 23:20:56.060 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-06-11 23:20:56.060 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-06-11 23:20:56.068 [info] Registering default platform agent...
+2025-06-11 23:20:56.087 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-06-11 23:20:56.520 [info] Fetched model metadata in 441ms 90f8cf01-b1a1-42b2-b657-075e13175739
+2025-06-11 23:22:58.878 [info] Using the Electron fetcher.
+2025-06-11 23:22:58.878 [info] Initializing Git extension service.
+2025-06-11 23:22:58.878 [info] Successfully activated the vscode.git extension.
+2025-06-11 23:22:58.878 [info] Enablement state of the vscode.git extension: true.
+2025-06-11 23:22:58.878 [info] Successfully registered Git commit message provider.
+2025-06-11 23:22:59.090 [info] Logged in as icrygleich
+2025-06-11 23:22:59.784 [info] Got Copilot token for icrygleich
+2025-06-11 23:22:59.818 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-06-11 23:22:59.818 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-06-11 23:22:59.825 [info] Registering default platform agent...
+2025-06-11 23:22:59.901 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-06-11 23:23:00.134 [info] Fetched model metadata in 343ms 7e1a72e4-8737-48b2-95e9-d0ab6a20f4a8
+2025-06-11 23:23:00.220 [info] activationBlocker from 'languageModelAccess' took for 1145ms
+2025-06-11 23:24:52.605 [info] Using the Electron fetcher.
+2025-06-11 23:24:52.605 [info] Initializing Git extension service.
+2025-06-11 23:24:52.605 [info] Successfully activated the vscode.git extension.
+2025-06-11 23:24:52.605 [info] Enablement state of the vscode.git extension: true.
+2025-06-11 23:24:52.605 [info] Successfully registered Git commit message provider.
+2025-06-11 23:24:53.049 [info] Logged in as icrygleich
+2025-06-11 23:24:53.791 [info] Got Copilot token for icrygleich
+2025-06-11 23:24:53.835 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-06-11 23:24:53.835 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-06-11 23:24:53.843 [info] Registering default platform agent...
+2025-06-11 23:24:53.934 [info] Fetched model metadata in 137ms 781eb73c-00a6-4a1d-8ee5-8a73a565e334
+2025-06-11 23:24:53.936 [info] activationBlocker from 'languageModelAccess' took for 1117ms
+2025-06-11 23:24:53.955 [info] BYOK: Copilot Chat known models list fetched successfully.

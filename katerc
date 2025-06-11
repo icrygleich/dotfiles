@@ -1,0 +1,55 @@
+[General]
+Close After Last=true
+
+[KTextEditor Document]
+Newline at End of File=true
+Allow End of Line Detection=true
+On-The-Fly Spellcheck=false
+Show Tabs=true
+Word Wrap=false
+Word Wrap Column=80
+
+[KTextEditor Renderer]
+Animate Bracket Matching=true
+Auto Color Theme Selection=false
+Color Theme=Mokka
+Font=FiraCode Nerd Font Mono,11,-1,5,50,0,0,0,0,0
+Show Indentation Lines=true
+Word Wrap Marker=false
+
+[KTextEditor View]
+Smart Copy Cut=true
+Text Drag And Drop=true
+Word Completion=true
+Word Completion Minimal Word Length=3
+Word Completion Remove Tail=true
+Dynamic Word Wrap=true
+Dynamic Word Wrap Align Indent=80
+Dynamic Word Wrap At Static Marker=false
+Dynamic Word Wrap Indicators=1
+Dynamic Wrap not at word boundaries=false
+Enable Tab completion=false
+Line Numbers=true
+Show File Encoding=true
+Show Line Count=true
+Show Scrollbars=0
+Show Statusbar Dictionary=true
+Show Statusbar Highlighting Mode=true
+Show Statusbar Input Mode=true
+Show Statusbar Line Column=true
+Show Statusbar Tab Settings=true
+Show Word Count=false
+
+[Konsole]
+AutoSyncronize=true
+RemoveExtension=false
+
+[UiSettings]
+ColorScheme=Mokka
+
+[filetree]
+middleClickToClose=false
+shadingEnabled=true
+showCloseButton=false
+showFullPathOnRoots=false
+showToolbar=true

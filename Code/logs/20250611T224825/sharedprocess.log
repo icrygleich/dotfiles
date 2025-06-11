@@ -1,0 +1,8 @@
+2025-06-11 22:48:26.705 [info] ComputeTargetPlatform: linux-x64
+2025-06-11 22:48:28.934 [info] ComputeTargetPlatform: linux-x64
+2025-06-11 23:20:42.312 [info] Getting Manifest... humy2833.ftp-simple
+2025-06-11 23:20:42.404 [info] Installing extension: humy2833.ftp-simple {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/name/.vscode/extensions/extensions.json","path":"/home/name/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.3","date":"2025-06-02T13:30:54.273Z"}}
+2025-06-11 23:20:43.290 [info] Extension signature verification result for humy2833.ftp-simple: Success. Internal Code: 0. Executed: true. Duration: 413ms.
+2025-06-11 23:20:43.469 [info] Extracted extension to file:///home/name/.vscode/extensions/humy2833.ftp-simple-0.7.6: humy2833.ftp-simple
+2025-06-11 23:20:43.487 [info] Renamed to /home/name/.vscode/extensions/humy2833.ftp-simple-0.7.6
+2025-06-11 23:20:43.500 [info] Extension installed successfully: humy2833.ftp-simple vscode-userdata:/home/name/.vscode/extensions/extensions.json

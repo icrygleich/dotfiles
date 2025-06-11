@@ -1,0 +1,87 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "de9b9be16f95b9a37e1b2497baddad94dc2a35eaf206813fc6afa081aa7ad4c7",
+    "telemetry.devDeviceId": "116e1b71-7a95-43f9-84fe-a0f11f74dbfc",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/name/Documents"
+            },
+            {
+                "folderUri": "file:///home/name/Documents/dotfiles"
+            }
+        ],
+        "emptyWindows": [
+            {
+                "backupFolder": "1749662042069"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/name/Documents": "__default__profile__",
+            "file:///home/name/Documents/dotfiles": "__default__profile__"
+        },
+        "emptyWindows": {
+            "1749662042069": "__default__profile__"
+        }
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#002451",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#002451",
+            "editorBackground": "#002451",
+            "titleBarBackground": "#001126",
+            "activityBarBackground": "#001733",
+            "sideBarBackground": "#001c40",
+            "statusBarBackground": "#001126",
+            "statusBarNoFolderBackground": "#001126"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 300,
+            "auxiliarySideBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/name/Documents/dotfiles",
+            "backupPath": "/home/name/.config/Code/Backups/edf76add12a208196efa365df0b30ac8",
+            "uiState": {
+                "mode": 1,
+                "x": 212,
+                "y": 161,
+                "width": 997,
+                "height": 808
+            }
+        },
+        "openedWindows": []
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 300,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "fa76250487eb8c7521ea3170f907a387": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "7d0a833c66a50ce3f0e13b905ba541c8": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    }
+}

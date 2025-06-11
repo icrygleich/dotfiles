@@ -1,0 +1,79 @@
+2025-06-11 22:48:27.294 [info] [main] Log level: Info
+2025-06-11 22:48:27.294 [info] [main] Validating found git in: "git"
+2025-06-11 22:48:27.294 [info] [main] Using git "2.49.0" from "git"
+2025-06-11 22:48:27.294 [info] [Model][doInitialScan] Initial repository scan started
+2025-06-11 22:48:27.294 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-06-11 23:22:58.807 [info] [main] Log level: Info
+2025-06-11 23:22:58.807 [info] [main] Validating found git in: "git"
+2025-06-11 23:22:58.807 [info] [main] Using git "2.49.0" from "git"
+2025-06-11 23:22:58.807 [info] [Model][doInitialScan] Initial repository scan started
+2025-06-11 23:22:58.807 [info] > git rev-parse --show-toplevel [28ms]
+2025-06-11 23:22:58.807 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-06-11 23:22:58.807 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-06-11 23:22:58.869 [info] > git rev-parse --show-toplevel [64ms]
+2025-06-11 23:22:58.869 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-06-11 23:22:58.879 [info] > git rev-parse --show-toplevel [2ms]
+2025-06-11 23:22:58.879 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-06-11 23:24:44.916 [info] > git clone https://github.com/icrygleich/dotfiles.git /home/name/Documents/dotfiles --progress [526ms]
+2025-06-11 23:24:44.916 [info] Cloning into '/home/name/Documents/dotfiles'...
+remote: Enumerating objects: 21, done.        
+remote: Counting objects:   4% (1/21)        remote: Counting objects:   9% (2/21)        remote: Counting objects:  14% (3/21)        remote: Counting objects:  19% (4/21)        remote: Counting objects:  23% (5/21)        remote: Counting objects:  28% (6/21)        remote: Counting objects:  33% (7/21)        remote: Counting objects:  38% (8/21)        remote: Counting objects:  42% (9/21)        remote: Counting objects:  47% (10/21)        remote: Counting objects:  52% (11/21)        remote: Counting objects:  57% (12/21)        remote: Counting objects:  61% (13/21)        remote: Counting objects:  66% (14/21)        remote: Counting objects:  71% (15/21)        remote: Counting objects:  76% (16/21)        remote: Counting objects:  80% (17/21)        remote: Counting objects:  85% (18/21)        remote: Counting objects:  90% (19/21)        remote: Counting objects:  95% (20/21)        remote: Counting objects: 100% (21/21)        remote: Counting objects: 100% (21/21), done.        
+remote: Compressing objects:   7% (1/13)        remote: Compressing objects:  15% (2/13)        remote: Compressing objects:  23% (3/13)        remote: Compressing objects:  30% (4/13)        remote: Compressing objects:  38% (5/13)        remote: Compressing objects:  46% (6/13)        remote: Compressing objects:  53% (7/13)        remote: Compressing objects:  61% (8/13)        remote: Compressing objects:  69% (9/13)        remote: Compressing objects:  76% (10/13)        remote: Compressing objects:  84% (11/13)        remote: Compressing objects:  92% (12/13)        remote: Compressing objects: 100% (13/13)        remote: Compressing objects: 100% (13/13), done.        
+Receiving objects:   4% (1/21)Receiving objects:   9% (2/21)Receiving objects:  14% (3/21)Receiving objects:  19% (4/21)Receiving objects:  23% (5/21)Receiving objects:  28% (6/21)Receiving objects:  33% (7/21)Receiving objects:  38% (8/21)Receiving objects:  42% (9/21)Receiving objects:  47% (10/21)Receiving objects:  52% (11/21)remote: Total 21 (delta 1), reused 15 (delta 1), pack-reused 0 (from 0)        
+Receiving objects:  57% (12/21)Receiving objects:  61% (13/21)Receiving objects:  66% (14/21)Receiving objects:  71% (15/21)Receiving objects:  76% (16/21)Receiving objects:  80% (17/21)Receiving objects:  85% (18/21)Receiving objects:  90% (19/21)Receiving objects:  95% (20/21)Receiving objects: 100% (21/21)Receiving objects: 100% (21/21), 14.95 KiB | 900.00 KiB/s, done.
+Resolving deltas:   0% (0/1)Resolving deltas: 100% (1/1)Resolving deltas: 100% (1/1), done.
+2025-06-11 23:24:52.486 [info] [main] Log level: Info
+2025-06-11 23:24:52.486 [info] [main] Validating found git in: "git"
+2025-06-11 23:24:52.486 [info] [main] Using git "2.49.0" from "git"
+2025-06-11 23:24:52.486 [info] [Model][doInitialScan] Initial repository scan started
+2025-06-11 23:24:52.486 [info] > git rev-parse --show-toplevel [3ms]
+2025-06-11 23:24:52.516 [info] > git rev-parse --git-dir --git-common-dir [23ms]
+2025-06-11 23:24:52.522 [info] [Model][openRepository] Opened repository (path): /home/name/Documents/dotfiles
+2025-06-11 23:24:52.522 [info] [Model][openRepository] Opened repository (real path): /home/name/Documents/dotfiles
+2025-06-11 23:24:52.524 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-06-11 23:24:52.596 [info] > git config --get commit.template [65ms]
+2025-06-11 23:24:52.605 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-06-11 23:24:52.612 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/name/Documents/dotfiles/.git/refs/remotes/origin/main'
+2025-06-11 23:24:52.612 [info] > git rev-parse refs/remotes/origin/main [0ms]
+2025-06-11 23:24:52.749 [info] > git status -z -uall [130ms]
+2025-06-11 23:24:52.750 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [124ms]
+2025-06-11 23:24:52.774 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2025-06-11 23:24:52.783 [info] > git config --get --local branch.main.vscode-merge-base [2ms]
+2025-06-11 23:24:52.783 [warning] [Git][config] git config failed: Failed to execute git
+2025-06-11 23:24:52.789 [info] > git config --get commit.template [15ms]
+2025-06-11 23:24:52.798 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-06-11 23:24:52.798 [info] > git reflog main --grep-reflog=branch: Created from *. [9ms]
+2025-06-11 23:24:52.811 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/name/Documents/dotfiles/.git/refs/remotes/origin/main'
+2025-06-11 23:24:52.823 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [18ms]
+2025-06-11 23:24:52.831 [info] > git rev-parse refs/remotes/origin/main [20ms]
+2025-06-11 23:24:52.851 [info] > git status -z -uall [14ms]
+2025-06-11 23:24:52.851 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [7ms]
+2025-06-11 23:24:52.860 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [30ms]
+2025-06-11 23:24:52.875 [info] > git config --add --local branch.main.vscode-merge-base origin/main [8ms]
+2025-06-11 23:24:52.875 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [16ms]
+2025-06-11 23:24:52.890 [info] > git config --get --local branch.main.vscode-merge-base [8ms]
+2025-06-11 23:24:52.897 [info] > git config --get commit.template [22ms]
+2025-06-11 23:24:52.957 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [60ms]
+2025-06-11 23:24:52.964 [info] > git config --get commit.template [74ms]
+2025-06-11 23:24:52.978 [info] > git merge-base refs/heads/main refs/remotes/origin/main [14ms]
+2025-06-11 23:24:52.986 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2025-06-11 23:24:52.986 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [15ms]
+2025-06-11 23:24:52.992 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/name/Documents/dotfiles/.git/refs/remotes/origin/main'
+2025-06-11 23:24:52.999 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/name/Documents/dotfiles/.git/refs/remotes/origin/main'
+2025-06-11 23:24:53.011 [info] > git rev-parse refs/remotes/origin/main [12ms]
+2025-06-11 23:24:53.019 [info] > git rev-parse refs/remotes/origin/main [27ms]
+2025-06-11 23:24:53.033 [info] > git diff --name-status -z --diff-filter=ADMR 9fe515000b549399bb88c3ad84dd3cec8387671c...refs/remotes/origin/main [48ms]
+2025-06-11 23:24:53.039 [info] > git status -z -uall [13ms]
+2025-06-11 23:24:53.039 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [6ms]
+2025-06-11 23:24:53.040 [info] > git merge-base refs/heads/main refs/remotes/origin/main [22ms]
+2025-06-11 23:24:53.047 [info] > git diff --name-status -z --diff-filter=ADMR 9fe515000b549399bb88c3ad84dd3cec8387671c...refs/remotes/origin/main [1ms]
+2025-06-11 23:24:53.104 [info] > git check-ignore -v -z --stdin [1ms]
+2025-06-11 23:24:56.577 [info] > git show --textconv :README.md [31ms]
+2025-06-11 23:24:56.577 [info] > git ls-files --stage -- README.md [22ms]
+2025-06-11 23:24:56.596 [info] > git cat-file -s 27530db8afdb346fea8caa01365bfa6ee3dd3fdc [11ms]
+2025-06-11 23:24:58.412 [info] > git show --textconv :hwlist_pcname.xml [9ms]
+2025-06-11 23:24:58.413 [info] > git ls-files --stage -- hwlist_pcname.xml [1ms]
+2025-06-11 23:24:58.421 [info] > git cat-file -s 8d1c8b69c3fce7bea45c73efd06983e3c419a92f [1ms]

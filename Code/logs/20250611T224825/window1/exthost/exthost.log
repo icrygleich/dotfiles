@@ -1,0 +1,54 @@
+2025-06-11 22:48:26.835 [info] Extension host with pid 3654 started
+2025-06-11 22:48:26.851 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-06-11 22:48:26.866 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-06-11 22:48:26.880 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onChatParticipant:github.copilot.editsAgent'
+2025-06-11 22:48:27.134 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-06-11 22:48:27.139 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-06-11 22:48:27.167 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-06-11 22:48:27.194 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: 'api', root cause: GitHub.copilot-chat
+2025-06-11 22:48:27.210 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: GitHub.copilot-chat
+2025-06-11 22:48:27.392 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-06-11 22:48:27.416 [info] Eager extensions activated
+2025-06-11 22:48:27.417 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-06-11 22:48:27.418 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-06-11 22:48:27.429 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-06-11 23:20:43.537 [info] ExtensionService#_doActivateExtension humy2833.ftp-simple, startup: false, activationEvent: '*'
+2025-06-11 23:22:55.838 [info] Extension host terminating: renderer closed the MessagePort
+2025-06-11 23:22:55.863 [info] Extension host with pid 3654 exiting with code 0
+2025-06-11 23:22:56.416 [info] Extension host with pid 5752 started
+2025-06-11 23:22:56.416 [info] Skipping acquiring lock for /home/name/.config/Code/User/workspaceStorage/fa76250487eb8c7521ea3170f907a387.
+2025-06-11 23:22:56.423 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-06-11 23:22:56.438 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-06-11 23:22:56.442 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-06-11 23:22:56.469 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-06-11 23:22:56.497 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-06-11 23:22:56.643 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-06-11 23:22:56.645 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-06-11 23:22:56.664 [info] Eager extensions activated
+2025-06-11 23:22:56.667 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-06-11 23:22:56.668 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-06-11 23:22:58.253 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2025-06-11 23:22:58.289 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-06-11 23:22:58.506 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-06-11 23:22:58.661 [info] ExtensionService#_doActivateExtension humy2833.ftp-simple, startup: false, activationEvent: '*'
+2025-06-11 23:24:51.116 [info] Extension host terminating: renderer closed the MessagePort
+2025-06-11 23:24:51.137 [info] Extension host with pid 5752 exiting with code 0
+2025-06-11 23:24:51.690 [info] Extension host with pid 6067 started
+2025-06-11 23:24:51.690 [info] Skipping acquiring lock for /home/name/.config/Code/User/workspaceStorage/7d0a833c66a50ce3f0e13b905ba541c8.
+2025-06-11 23:24:51.697 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-06-11 23:24:51.712 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-06-11 23:24:51.717 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-06-11 23:24:51.746 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-06-11 23:24:51.773 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-06-11 23:24:51.941 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-06-11 23:24:51.942 [info] ExtensionService#_doActivateExtension humy2833.ftp-simple, startup: true, activationEvent: '*'
+2025-06-11 23:24:51.991 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-06-11 23:24:52.013 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-06-11 23:24:52.054 [info] Eager extensions activated
+2025-06-11 23:24:52.062 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-06-11 23:24:52.063 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-06-11 23:24:52.072 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-06-11 23:24:52.292 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-06-11 23:24:56.316 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2025-06-11 23:24:56.327 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2025-06-11 23:24:56.556 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features

@@ -1,0 +1,20 @@
+2025-06-11 22:48:27.781 [info] [certificates] Removed 1 expired certificates
+2025-06-11 22:48:43.448 [error] [default] Error sending telemetry FetchError: getaddrinfo EAI_AGAIN copilot-telemetry.githubusercontent.com
+    at fetch (/home/name/.vscode/extensions/github.copilot-1.331.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/name/.vscode/extensions/github.copilot-1.331.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at K1.fetch (/home/name/.vscode/extensions/github.copilot-1.331.0/lib/src/network/helix.ts:94:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'EAI_AGAIN',
+  errno: -3001,
+  erroredSysCall: 'getaddrinfo'
+}
+2025-06-11 23:22:59.021 [info] [certificates] Removed 1 expired certificates
+2025-06-11 23:22:59.578 [info] [fetcher] Using Helix fetcher.
+2025-06-11 23:22:59.578 [info] [code-referencing] Public code references are enabled.
+2025-06-11 23:23:00.025 [info] [fetcher] Using Helix fetcher.
+2025-06-11 23:24:52.910 [info] [certificates] Removed 1 expired certificates
+2025-06-11 23:24:53.544 [info] [fetcher] Using Helix fetcher.
+2025-06-11 23:24:53.544 [info] [code-referencing] Public code references are enabled.
+2025-06-11 23:24:53.992 [info] [fetcher] Using Helix fetcher.

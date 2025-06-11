@@ -1,0 +1,8 @@
+2025-06-11 19:15:12.344 [info] Started local extension host with pid 4906.
+2025-06-11 19:15:12.405 [info] ComputeTargetPlatform: linux-x64
+2025-06-11 19:15:12.751 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-06-11 19:15:14.908 [info] [perf] Render performance baseline is 12ms
+2025-06-11 19:15:46.740 [error] No registered selector for ID: copilot-chat.fixWithCopilot
+2025-06-11 19:15:46.740 [error] No registered selector for ID: copilot-chat.generateCommitMessage
+2025-06-11 19:15:46.750 [error] No registered selector for ID: copilot-chat.terminalToDebugging
+2025-06-11 19:15:46.750 [error] No registered selector for ID: copilot-chat.terminalToDebuggingSuccess
