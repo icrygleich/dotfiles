@@ -1,0 +1,18 @@
+n05__SkipTheIntro > Skip intro logos: 1
+n05__SkipTheIntro > Hide initial white screen: 1
+n05__SkipTheIntro > Hide initial white screen duration: 10000
+n05__SkipTheIntro > Finding application window...
+n05__SkipTheIntro > FindWindowExA: found window handle
+n05__SkipTheIntro > Activating SkipTheIntro...
+n05__SkipTheIntro > Process name: eldenring.exe
+n05__SkipTheIntro > Process ID: 276
+n05__SkipTheIntro > Process base address: 0x140000000
+n05__SkipTheIntro > Pattern: 0xc6 ? ? ? ? ? 0x1 ? 0x3 0x0 0x0 0x0 ? 0x8b ? 0xe8 ? ? ? ? 0xe9 ? ? ? ? ? 0x8d 
+n05__SkipTheIntro > Checking region: 0000000140000000
+n05__SkipTheIntro > Found signature at 0000000140ADDD29
+n05__SkipTheIntro > Bytes at address: 0x74 
+n05__SkipTheIntro > New bytes: 0x90 0x90 
+n05__SkipTheIntro > Bytes match
+n05__SkipTheIntro > Patch applied
+n05__SkipTheIntro > Closing window
+n05__SkipTheIntro > Exiting

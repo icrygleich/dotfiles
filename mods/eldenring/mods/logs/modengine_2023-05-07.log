@@ -1,0 +1,19 @@
+[2023-05-07 15:14:27.543] [modengine] [error] Failed to load config (from `Z:\home\deck\.local\share\Steam\steamapps\common\ELDEN RING\Game\modengine.toml`): Error while parsing inline table: expected comma or closing '}', saw '"'
+[2023-05-07 15:14:27.543] [modengine] [info] ModEngine version 2.0.0-preview5-d7c359e6b33085ad965199fdad16396e52f2b480 initializing for Elden Ring
+[2023-05-07 15:14:27.543] [modengine] [info] Local settings loaded: false, Global settings loaded: false
+[2023-05-07 15:14:27.543] [modengine] [info] Main thread ID: 292
+[2023-05-07 15:14:27.543] [modengine] [info] Enabling extension base
+[2023-05-07 15:14:27.543] [modengine] [info] Enabled extension base
+[2023-05-07 15:14:27.543] [modengine] [info] Applied 1 hooks
+[2023-05-07 15:14:27.545] [modengine] [info] Starting worker thread
+[2023-05-07 15:38:04.791] [modengine] [info] ModEngine version 2.0.0-preview5-d7c359e6b33085ad965199fdad16396e52f2b480 initializing for Elden Ring
+[2023-05-07 15:38:04.791] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2023-05-07 15:38:04.791] [modengine] [info] Main thread ID: 288
+[2023-05-07 15:38:04.792] [modengine] [info] Enabling extension base
+[2023-05-07 15:38:04.792] [modengine] [info] Enabled extension base
+[2023-05-07 15:38:04.792] [modengine] [info] Enabling extension mod_loader
+[2023-05-07 15:38:04.792] [modengine] [info] Installing mod location mod
+[2023-05-07 15:38:04.792] [modengine] [info] Resolved mod path to Z:\home\deck\.local\share\Steam\steamapps\common\ELDEN RING\Game\mod
+[2023-05-07 15:38:04.792] [modengine] [info] Enabled extension mod_loader
+[2023-05-07 15:38:04.797] [modengine] [info] Applied 3 hooks
+[2023-05-07 15:38:04.800] [modengine] [info] Starting worker thread
